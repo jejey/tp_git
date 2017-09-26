@@ -12,7 +12,9 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
 		<junit-version>4.1.10</junit-version>
+
 	</properties>
 
 	<profiles>
